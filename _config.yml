@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Dr. Parul Shah </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/dr-parul-shah-042a2819/">LinkedIn</a> |   
+  <a href="https://github.com/DrParulShah">GitHub</a>
+  
+  <br>   
+  "What you do should not define who you are. Who you are shoud define what you do." - Sadhguru
+  A firm believer of this adage, I am an astute professional, a self-driven person. Technology excites me and challenges drive me. 
+  After more than 25 years of work experience in academia and research, I continue to be a student, 
+  continuously seeking knowledge from the dynamic evolution of technology in all walks of life.
+  <br>
+  </p>
+
+
 theme: jekyll-theme-minimal
